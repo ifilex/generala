@@ -1,0 +1,6 @@
+{
+  "name": "Generala Clásica & AI Cognitiva",
+  "description": "Juego de dados de la Generala tradicional contra IA con evaluación de velocidad, acción y cognición, animaciones suaves, efectos de sonido y modo claro/oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
